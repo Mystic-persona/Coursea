@@ -1,0 +1,12 @@
+{
+  "name": "coursea",
+  "version": "1.0.0",
+  "description": "Coursea is a web application for buying and selling online courses.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
